@@ -1,0 +1,21 @@
+# UI framework
+streamlit>=1.37.0
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# LangChain + Groq integration
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-groq>=0.1.0
+
+# Data handling (common in notebooks and LangChain chains)
+pandas>=2.2.0
+numpy>=1.26.0
+
+# API requests
+requests>=2.32.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.29.0

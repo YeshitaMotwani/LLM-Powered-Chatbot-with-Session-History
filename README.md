@@ -107,11 +107,6 @@ GROQ_API_KEY_2 = "your_api_key_here"
 * 🗂️ Export chat history to text/CSV.
 * 🧩 Add embeddings + vector store for knowledge-augmented chat.
 
----
 
-## 👩‍💻 Author
-
-**Yeshita Motwani**
-📌 B.Tech CSE | Software Engineering Intern | AI & ML Enthusiast
 
 
